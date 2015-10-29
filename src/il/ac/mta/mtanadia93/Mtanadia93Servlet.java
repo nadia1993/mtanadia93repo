@@ -9,4 +9,3 @@ public class Mtanadia93Servlet extends HttpServlet {
 		resp.getWriter().println("Hello, world");
 	}
 }
-////
